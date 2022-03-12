@@ -14,6 +14,11 @@ TMNIST-Glyphs (1,812 characters and over 500,000 images): https://www.kaggle.com
 
 We are looking for people who can read Cyrillic, Chinese, Japanese, Arabic, Persian, Korean, Hebrew, East European (Polish, Czech, Hungarian, etc.), Greek, Malay, Thai, Turkish, Luo, N'Ko, and Sanskrit for the creation of similar non-latin character datasets.  
 
+**An overview of notebooks:**
+- font_to_png.ipynb: Includes plotting an image from .TTF files, finding our serif and sans seriff variable google fonts
+- font_compare_metrics.ipynb: Different metrics to cluster and differentiate serif and sans serif fonts
+- dataframe_creator_min_5_fonts_english_in_each_type.ipynb: Supress fonts whose categories are less than 5
+- Create_TMNIST_Dataset_from_font_files[9543].ipynb: Creation of TMNIST dataset
 
 Cognitive Type Project Home: http://cognitivetype.org/     
 Cognitive Type Project Details: https://bit.ly/3dIDEQ9   
