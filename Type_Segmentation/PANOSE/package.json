@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "ajax-request": "^1.2.3",
+    "circular-json": "^0.5.9",
+    "glob": "^7.2.0",
+    "node-fetch": "^3.2.1",
+    "opentype.js": "^1.3.4"
+  }
+}
